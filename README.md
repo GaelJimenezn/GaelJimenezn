@@ -14,6 +14,39 @@
 
 ---
 
+## 🏅 Skills & Tools
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" alt="Bootstrap"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="36" alt="Tailwind CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="36" alt="Dart"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="36" alt="Flutter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36" alt="SQLite"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="36" alt="Unreal Engine"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="36" alt="Blender"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="36" alt="Three.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="36" alt="npm"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="36" alt="Visual Studio"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" alt="Google Cloud"/>
+<img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/c_scale,w_40/v1/logo/for_white_bg/cloudinary_icon_blue.svg" height="36" alt="Cloudinary"/>
+
+</div>
+
+---
+
 ## 👨‍💻 About me
 
 I’m a passionate developer in **interactive media**, blending **web technologies** and **game engines** to craft experiences that entertain, educate, and inspire. My focus is on **3D modeling**, **game engine development**, and **mathematical libraries** that power interactive systems.
@@ -21,8 +54,8 @@ I’m a passionate developer in **interactive media**, blending **web technologi
 I bring:
 
 * 💡 Solid foundations in **programming & databases**
-* 🤝 Experience collaborating with multi-disciplinary teams using Git/GitHub
-* 🔍 A detail-oriented mindset with strong problem-solving skills
+* 🤝 Experience collaborating with multi‑disciplinary teams using Git/GitHub
+* 🔍 A detail‑oriented mindset with strong problem‑solving skills
 * 🚀 A growth mindset: always learning, always improving
 
 ---
@@ -31,7 +64,7 @@ I bring:
 
 * 🛠️ Building my own **Game Engine in C++** (**VektorCoreEngine**)
 * 🧮 Developing **EngineUtilities**: a custom **mathematics library**
-* 🌐 Showcasing **3D modeling projects** on the web (**Auto-Showcase**)
+* 🌐 Showcasing **3D modeling projects** on the web (**Auto‑Showcase**)
 * 📚 Expanding knowledge in **databases** and **interactive media**
 
 ---
@@ -45,19 +78,26 @@ I bring:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" alt="Bootstrap"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36" alt="TailwindCSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="36" alt="npm"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="36" alt="Three.js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="C#"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="36" alt="Dart"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="36" alt="Flutter"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36" alt="SQLite"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" alt="Google Cloud"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="36" alt="Unreal Engine"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="36" alt="Blender"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="VS Code"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="36" alt="Visual Studio"/>
+<!-- Cloudinary (no devicon): use shields badge -->
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white" height="22" alt="Cloudinary"/>
 
 </div>
 
@@ -81,7 +121,7 @@ I bring:
 
 ### 🌐 3D Models Showcase (Web)
 
-* A web-based gallery for **3D models and assets**
+* A web‑based gallery for **3D models and assets**
 * Built with **HTML, CSS, and JavaScript**
 * Designed for easy navigation and presentation of my models
 * **Repo:** [GaelJimenezn/Auto-Showcase](https://github.com/GaelJimenezn/Auto-Showcase)
@@ -107,17 +147,11 @@ I bring:
 
 ## 🎧 Spotify — Your Music
 
-<div align="center">
-
-### 🎶 Top Artists
-
-[![Spotify Top Artists](https://spotify-recently-played-readme.vercel.app/api/top-artists?user=31jc3mng6lp3l3gblym2pvbfv4oy\&count=5)](https://open.spotify.com/user/31jc3mng6lp3l3gblym2pvbfv4oy)
+> No tokens needed: using public widget for **Recently Played**. Top Artists requires owning the Spotify account (not recommended in your case).
 
 ### 🎵 Recently Played
 
-[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31jc3mng6lp3l3gblym2pvbfv4oy\&count=3)](https://open.spotify.com/user/31jc3mng6lp3l3gblym2pvbfv4oy)
-
-</div>
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31jc3mng6lp3l3gblym2pvbfv4oy\&cover_image=true\&theme=natemoo-re\&show_offline=false\&background_color=000000\&interchange=false\&bar_color=53b14f\&bar_color_cover=true)](https://open.spotify.com/user/31jc3mng6lp3l3gblym2pvbfv4oy)
 
 ---
 
@@ -142,8 +176,8 @@ I bring:
 ## 💡 Highlights
 
 * 🔧 From **concept → prototype → release**: I ship complete vertical slices
-* 🧠 Creative problem-solver with strong communication skills
-* 🎨 UX-focused: I validate ideas early with prototypes
+* 🧠 Creative problem‑solver with strong communication skills
+* 🎨 UX‑focused: I validate ideas early with prototypes
 * 🌍 Exploring **Game Engines, Web Security, Big Data, and 3D Dev**
 
 ---
@@ -152,7 +186,7 @@ I bring:
 
 * 🔮 Learn **AI/ML integration** for web & games
 * 🕶️ Explore **VR/AR** immersive design
-* 🌐 Contribute to **open-source projects**
+* 🌐 Contribute to **open‑source projects**
 * 🚀 Build a personal **indie game studio portfolio**
 
 ---
