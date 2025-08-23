@@ -14,38 +14,6 @@
 
 ---
 
-## 🏅 Skills & Tools
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" alt="Bootstrap"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="36" alt="Tailwind CSS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="C#"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="36" alt="Dart"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="36" alt="Flutter"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36" alt="SQLite"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="36" alt="Unreal Engine"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="36" alt="Blender"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="36" alt="Three.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="36" alt="npm"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="36" alt="Visual Studio"/>
-<img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/c_scale,w_40/v1/logo/for_white_bg/cloudinary_icon_blue.svg" height="36" alt="Cloudinary"/>
-
-</div>
-
----
-
 ## 👨‍💻 About me
 
 I’m a passionate developer in **interactive media**, blending **web technologies** and **game engines** to craft experiences that entertain, educate, and inspire. My focus is on **3D modeling**, **game engine development**, and **mathematical libraries** that power interactive systems.
@@ -80,6 +48,7 @@ I bring:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" alt="Bootstrap"/>
@@ -100,7 +69,10 @@ I bring:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="VS Code"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="36" alt="Visual Studio"/>
-<!-- Cloudinary (no devicon): use shields badge -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="36" alt="Unity"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="36" alt="Android Studio"/>
+<img src="https://img.shields.io/badge/WampServer-FF4088?logo=apache&logoColor=white" height="22" alt="WampServer"/>
+<img src="https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white" height="22" alt="DBeaver"/>
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white" height="22" alt="Cloudinary"/>
 
 </div>
@@ -149,9 +121,17 @@ I bring:
 
 ## 🎧 Spotify — Your Music
 
-### 🎵 Recently Played
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31jc3mng6lp3l3gblym2pvbfv4oy\&cover_image=true\&theme=natemoo-re\&show_offline=false\&background_color=000000\&interchange=false\&bar_color=53b14f\&bar_color_cover=true)](https://open.spotify.com/user/31jc3mng6lp3l3gblym2pvbfv4oy)
+<div align="center">
+  <!-- Recently played -->
+  <a href="https://open.spotify.com/user/31jc3mng6lp3l3gblym2pvbfv4oy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jc3mng6lp3l3gblym2pvbfv4oy&count=5&width=600&unique=true" alt="Spotify recently played"/>
+  </a>
+  <br/>
+  <!-- Top artists -->
+  <a href="https://open.spotify.com/user/31jc3mng6lp3l3gblym2pvbfv4oy">
+    <img src="https://spotify-github-profile.vercel.app/api/top-artists?uid=31jc3mng6lp3l3gblym2pvbfv4oy&cover_image=true&theme=natemoo-re&background_color=000000&show_offline=false" alt="Spotify top artists"/>
+  </a>
+</div>
 
 ---
 
