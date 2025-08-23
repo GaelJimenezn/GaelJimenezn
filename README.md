@@ -21,8 +21,8 @@ I’m a passionate developer in **interactive media**, blending **web technologi
 I bring:
 
 * 💡 Solid foundations in **programming & databases**
-* 🤝 Experience collaborating with multi‑disciplinary teams using Git/GitHub
-* 🔍 A detail‑oriented mindset with strong problem‑solving skills
+* 🤝 Experience collaborating with multi-disciplinary teams using Git/GitHub
+* 🔍 A detail-oriented mindset with strong problem-solving skills
 * 🚀 A growth mindset: always learning, always improving
 
 ---
@@ -31,7 +31,7 @@ I bring:
 
 * 🛠️ Building my own **Game Engine in C++** (**VektorCoreEngine**)
 * 🧮 Developing **EngineUtilities**: a custom **mathematics library**
-* 🌐 Showcasing **3D modeling projects** on the web (**Auto‑Showcase**)
+* 🌐 Showcasing **3D modeling projects** on the web (**Auto-Showcase**)
 * 📚 Expanding knowledge in **databases** and **interactive media**
 
 ---
@@ -39,8 +39,6 @@ I bring:
 ## 🧰 Tech stack
 
 <div align="center">
-
-<!-- Devicon icons (clean, lightweight) -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript"/>
@@ -60,7 +58,6 @@ I bring:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="VS Code"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="36" alt="Visual Studio"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux"/>
 
 </div>
 
@@ -84,7 +81,7 @@ I bring:
 
 ### 🌐 3D Models Showcase (Web)
 
-* A web‑based gallery for **3D models and assets**
+* A web-based gallery for **3D models and assets**
 * Built with **HTML, CSS, and JavaScript**
 * Designed for easy navigation and presentation of my models
 * **Repo:** [GaelJimenezn/Auto-Showcase](https://github.com/GaelJimenezn/Auto-Showcase)
@@ -106,15 +103,21 @@ I bring:
 
 </div>
 
-> Si no se muestran, espera unos minutos o visita las URLs para que se generen en caché.
-
 ---
 
-## 🎧 Spotify — Recently Played *(opcional)*
+## 🎧 Spotify — Your Music
 
-```md
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31jc3mng6lp3l3gblym2pvbfv4oy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/31jc3mng6lp3l3gblym2pvbfv4oy)
-```
+<div align="center">
+
+### 🎶 Top Artists
+
+[![Spotify Top Artists](https://spotify-recently-played-readme.vercel.app/api/top-artists?user=31jc3mng6lp3l3gblym2pvbfv4oy\&count=5)](https://open.spotify.com/user/31jc3mng6lp3l3gblym2pvbfv4oy)
+
+### 🎵 Recently Played
+
+[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31jc3mng6lp3l3gblym2pvbfv4oy\&count=3)](https://open.spotify.com/user/31jc3mng6lp3l3gblym2pvbfv4oy)
+
+</div>
 
 ---
 
@@ -139,8 +142,8 @@ I bring:
 ## 💡 Highlights
 
 * 🔧 From **concept → prototype → release**: I ship complete vertical slices
-* 🧠 Creative problem‑solver with strong communication skills
-* 🎨 UX‑focused: I validate ideas early with prototypes
+* 🧠 Creative problem-solver with strong communication skills
+* 🎨 UX-focused: I validate ideas early with prototypes
 * 🌍 Exploring **Game Engines, Web Security, Big Data, and 3D Dev**
 
 ---
@@ -149,7 +152,7 @@ I bring:
 
 * 🔮 Learn **AI/ML integration** for web & games
 * 🕶️ Explore **VR/AR** immersive design
-* 🌐 Contribute to **open‑source projects**
+* 🌐 Contribute to **open-source projects**
 * 🚀 Build a personal **indie game studio portfolio**
 
 ---
@@ -161,16 +164,3 @@ I bring:
 * **LinkedIn:** [linkedin.com/in/gaeljimenezn](https://www.linkedin.com/in/gaeljimenezn)
 
 ---
-
-## ✅ Quick setup checklist
-
-* [x] Create profile repository **GaelJimenezn**
-* [x] Add this **README.md** to the root (main branch)
-* [ ] Pin **VektorCoreEngine**, **EngineUtilities**, **Auto‑Showcase**
-* [ ] Add 2–3 screenshots/GIFs to each project README
-* [ ] Add topics to repos: `game-engine`, `math-library`, `3d-models`, `webapp`
-* [ ] (Optional) Enable the Spotify & stats cards
-
----
-
-> Looks good? If you share your Spotify user ID or portfolio link, I’ll plug them in so the widgets go live.
