@@ -112,10 +112,8 @@ I bring:
 
 ## 🎧 Spotify — Recently Played *(opcional)*
 
-> Requiere tu **Spotify user ID**. Reemplaza `YOUR_SPOTIFY_ID` en la URL.
-
 ```md
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)]([https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID](https://open.spotify.com/user/31jc3mng6lp3l3gblym2pvbfv4oy))
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31jc3mng6lp3l3gblym2pvbfv4oy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/31jc3mng6lp3l3gblym2pvbfv4oy)
 ```
 
 ---
