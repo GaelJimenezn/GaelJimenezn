@@ -40,7 +40,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="36" alt="npm"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="VS Code"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="36" alt="Visual Studio"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" alt="Google Cloud"/>
 <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/c_scale,w_40/v1/logo/for_white_bg/cloudinary_icon_blue.svg" height="36" alt="Cloudinary"/>
 
 </div>
@@ -73,6 +72,8 @@ I bring:
 
 * MERN Stack (MongoDB · Express.js · React · Node.js)
 
+---
+
 ## 🧰 Tech stack
 
 <div align="center">
@@ -85,20 +86,13 @@ I bring:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36" alt="TailwindCSS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="36" alt="npm"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="36" alt="Three.js"/>
-
-<!-- MERN Stack -->
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="36" alt="Express.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="C#"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="36" alt="Dart"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="36" alt="Flutter"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36" alt="SQLite"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="36" alt="Unreal Engine"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="36" alt="Blender"/>
@@ -106,9 +100,7 @@ I bring:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="VS Code"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="36" alt="Visual Studio"/>
-
-<!-- Cloudinary (badge only) -->
-
+<!-- Cloudinary (no devicon): use shields badge -->
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white" height="22" alt="Cloudinary"/>
 
 </div>
@@ -145,22 +137,64 @@ I bring:
 ## 📊 GitHub stats (auto-updated)
 
 <div align="center">
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=GaelJimenezn&show_icons=true&theme=transparent" height="150" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaelJimenezn&layout=compact&theme=transparent" height="150" />
 </a>
-
 </div>
 
 ---
 
 ## 🎧 Spotify — Your Music
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31jc3mng6lp3l3gblym2pvbfv4oy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jc3mng6lp3l3gblym2pvbfv4oy&count=3&unique=true" alt="Spotify recently played" />
-  </a>
-</div>
+### 🎵 Recently Played
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31jc3mng6lp3l3gblym2pvbfv4oy\&cover_image=true\&theme=natemoo-re\&show_offline=false\&background_color=000000\&interchange=false\&bar_color=53b14f\&bar_color_cover=true)](https://open.spotify.com/user/31jc3mng6lp3l3gblym2pvbfv4oy)
+
+---
+
+## 🎓 Education & Certifications
+
+**Universidad Cuauhtémoc Querétaro** — B.Eng. in Video Game Dev & Interactive Media (2023–present)
+**CBTis 255** — Technical Degree in Programming (2020–2023)
+
+**Selected Certifications:**
+
+* FreeCodeCamp — Responsive Web Design (2023)
+* Capacítate para el Empleo (Fundación Carlos Slim):
+
+  * ✅ Data Curation (completed, top score)
+  * ⚙️ Database Administration (in progress)
+  * 🌐 Web Integrity Technician (in progress)
+  * 📊 Big Data Technician (in progress)
+  * 📱 Web & Mobile Development (in progress)
+
+---
+
+## 💡 Highlights
+
+* 🔧 From **concept → prototype → release**: I ship complete vertical slices
+* 🧠 Creative problem‑solver with strong communication skills
+* 🎨 UX‑focused: I validate ideas early with prototypes
+* 🌍 Exploring **Game Engines, Web Security, Big Data, and 3D Dev**
+
+---
+
+## 🎯 Future Goals
+
+* 🔮 Learn **AI/ML integration** for web & games
+* 🕶️ Explore **VR/AR** immersive design
+* 🌐 Contribute to **open‑source projects**
+* 🚀 Build a personal **indie game studio portfolio**
+
+---
+
+## 📫 Contact
+
+* **Email:** [carlosgaeljimeneznieto@gmail.com](mailto:carlosgaeljimeneznieto@gmail.com)
+* **Instagram (Brand):** [@tsg\_im](https://www.instagram.com/tsg_im)
+* **LinkedIn:** [linkedin.com/in/gaeljimenezn](https://www.linkedin.com/in/gaeljimenezn)
+
+---
