@@ -1,180 +1,149 @@
 <div align="center">
 
-# ✨ Hi, I’m Gael — Interactive Media & Game Developer ✨
+# ✨ Hi, I’m Gael — Software Engineer & Game Developer ✨
 
-**🎮 Web & Game developer • Building immersive, accessible & impactful experiences**
-**📍 Querétaro, Mexico · 🎓 B.Eng. in Video Game Development & Interactive Media (in progress)**
+**🎮 Gameplay Mechanics • Engine Architecture • Full Stack Solutions**
+**📍 Querétaro, Mexico**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gaeljimenezn)
-[![Instagram](https://img.shields.io/badge/Instagram-e4405f?logo=instagram\&logoColor=white)](https://www.instagram.com/tsg_im)
-[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio\&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel\&logoColor=white)](#)
-
-</div>
-
----
-
-## 👨‍💻 About me
-
-I’m a passionate developer in **interactive media**, blending **web technologies** and **game engines** to craft experiences that entertain, educate, and inspire. My focus is on **3D modeling**, **game engine development**, and **mathematical libraries** that power interactive systems.
-
-I bring:
-
-* 💡 Solid foundations in **programming & databases**
-* 🤝 Experience collaborating with multi‑disciplinary teams using Git/GitHub
-* 🔍 A detail‑oriented mindset with strong problem‑solving skills
-* 🚀 A growth mindset: always learning, always improving
-
----
-
-## 🚀 What I’m doing right now
-
-* 🛠️ Building my own **Game Engine in C++** (**VektorCoreEngine**)
-* 🧮 Developing **EngineUtilities**: a custom **mathematics library**
-* 🌐 Showcasing **3D modeling projects** on the web (**Auto‑Showcase**)
-* 📚 Expanding knowledge in **databases** and **interactive media**
-
----
-
-## 📚 Currently Learning
-
-* MERN Stack (MongoDB · Express.js · React · Node.js)
-
----
-
-## 🧰 Tech stack
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" alt="Bootstrap"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36" alt="TailwindCSS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="36" alt="npm"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="36" alt="Three.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="C#"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="36" alt="Dart"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="36" alt="Flutter"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36" alt="SQLite"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="36" alt="Unreal Engine"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="36" alt="Blender"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="36" alt="Visual Studio"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="36" alt="Unity"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="36" alt="Android Studio"/>
-<img src="https://img.shields.io/badge/WampServer-FF4088?logo=apache&logoColor=white" height="22" alt="WampServer"/>
-<img src="https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white" height="22" alt="DBeaver"/>
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white" height="22" alt="Cloudinary"/>
-
-</div>
-
----
-
-## 🌟 Featured projects
-
-### 🛠️ VektorCoreEngine (C++)
-
-* A custom **game engine framework** built in C++
-* Includes rendering, input handling, and math utilities
-* Used as a base to explore **graphics programming**
-* **Repo:** [GaelJimenezn/VektorCoreEngine](https://github.com/GaelJimenezn/VektorCoreEngine)
-
-### 🧮 EngineUtilities (C++)
-
-* A **mathematical library** tailored for 2D/3D game development
-* Covers vectors, matrices, and transformations
-* Built to support **VektorCoreEngine** and future projects
-* **Repo:** [GaelJimenezn/EngineUtilities](https://github.com/GaelJimenezn/EngineUtilities)
-
-### 🌐 3D Models Showcase (Web)
-
-* A web‑based gallery for **3D models and assets**
-* Built with **HTML, CSS, and JavaScript**
-* Designed for easy navigation and presentation of my models
-* **Repo:** [GaelJimenezn/Auto-Showcase](https://github.com/GaelJimenezn/Auto-Showcase)
-
-> 💡 More projects will be published as I expand my portfolio.
-
----
-
-## 📊 GitHub stats (auto-updated)
-
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=GaelJimenezn&show_icons=true&theme=transparent" height="150" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaelJimenezn&layout=compact&theme=transparent" height="150" />
-</a>
-</div>
-
----
-
-## 🎧 Spotify — Your Music
-
-<div align="center">
-  <!-- Recently played -->
-  <a href="https://open.spotify.com/user/31jc3mng6lp3l3gblym2pvbfv4oy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jc3mng6lp3l3gblym2pvbfv4oy&count=5&width=600&unique=true" alt="Spotify recently played"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gael-jimenez-n/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <br/>
-  <!-- Top artists -->
-  <a href="https://open.spotify.com/user/31jc3mng6lp3l3gblym2pvbfv4oy">
-    <img src="https://spotify-github-profile.vercel.app/api/top-artists?uid=31jc3mng6lp3l3gblym2pvbfv4oy&cover_image=true&theme=natemoo-re&background_color=000000&show_offline=false" alt="Spotify top artists"/>
+  <a href="mailto:tu_correo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/tsg_im/">
+    <img src="https://img.shields.io/badge/Instagram-@tsg__im-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://thedragonchamber.itch.io/">
+    <img src="https://img.shields.io/badge/Itch.io-My_Games-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+### 🎧 My Vibe (On Repeat)
+<div align="center">
+  <a href="https://open.spotify.com/user/TU_USUARIO_SPOTIFY">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&spotify_client_id=TU_CLIENT_ID&refresh_token=TU_TOKEN" alt="Spotify Playing" width="350" />
   </a>
 </div>
 
 ---
 
-## 🎓 Education & Certifications
+### 💡 Highlights
+* 🔧 **From concept → prototype → release:** I ship complete vertical slices.
+* 🧠 **Creative problem‑solver** with strong communication skills.
+* 🎨 **UX‑focused:** I validate ideas early with prototypes.
+* 🌍 **Exploring:** Game Engines, Web Security, Big Data, and 3D Dev.
 
-**Universidad Cuauhtémoc Querétaro** — B.Eng. in Video Game Dev & Interactive Media (2023–present)
-**CBTis 255** — Technical Degree in Programming (2020–2023)
+---
+
+### 🛠️ The Full Arsenal
+*Languages, Engines, Production Standards & Web Technologies.*
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/DirectX_11-454545?style=for-the-badge&logo=windows&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity_URP-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/New_Input_System-ffffff?style=for-the-badge&logo=unity&logoColor=black" />
+  <img src="https://img.shields.io/badge/Blueprints-Visual_Scripting-0078D7?style=for-the-badge&logo=unreal-engine&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=c&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/High_Concept-Design-FFB11B?style=for-the-badge&logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Requirements_Analysis-Engineering-000000?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game_Design_Doc_(GDD)-Documentation-blueviolet?style=for-the-badge&logo=googledocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile_&_Scrum-Methodology-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-CI%2FCD-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender_(Inorganic)-3D_Modeling-E67E22?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+
+</div>
+
+---
+
+### 🎓 Education & Certifications
+
+**Universidad Cuauhtémoc Querétaro**
+*B.Eng. in Video Game Dev & Interactive Media (2023–present)*
+
+**CBTis 255**
+*Technical Degree in Programming (2020–2023)*
 
 **Selected Certifications:**
-
-* FreeCodeCamp — Responsive Web Design (2023)
-* Capacítate para el Empleo (Fundación Carlos Slim):
-
-  * ✅ Data Curation (completed, top score)
-  * ⚙️ Database Administration (in progress)
-  * 🌐 Web Integrity Technician (in progress)
-  * 📊 Big Data Technician (in progress)
-  * 📱 Web & Mobile Development (in progress)
+* **FreeCodeCamp** — Responsive Web Design (2023)
+* **Capacítate para el Empleo (Fundación Carlos Slim):**
+    * ✅ Data Curation (Completed, top score)
+    * ⚙️ Database Administration (In progress)
+    * 🌐 Web Integrity Technician (In progress)
+    * 📊 Big Data Technician (In progress)
+    * 📱 Web & Mobile Development (In progress)
 
 ---
 
-## 💡 Highlights
+### ⚔️ Featured Projects
 
-* 🔧 From **concept → prototype → release**: I ship complete vertical slices
-* 🧠 Creative problem‑solver with strong communication skills
-* 🎨 UX‑focused: I validate ideas early with prototypes
-* 🌍 Exploring **Game Engines, Web Security, Big Data, and 3D Dev**
+#### ⚙️ [Pandora Core Engine](https://github.com/tu_usuario/PandoraCoreEngine) (C++ & DirectX 11)
+*A custom low-level game engine built to understand the graphics pipeline.*
+* **Tech:** C++, DirectX 11 (DXUT), HLSL.
+* **Engineering Highlights:**
+    * Implemented low-level graphics abstractions: `SwapChain`, `RenderTargetView`, and `DepthStencilView`.
+    * Designed a robust `DeviceContext` class to manage GPU resources and draw calls.
+    * Integrated custom `ModelLoader` and `Texture` management systems.
+
+#### 🧙‍♂️ [Dungeons and Dash](https://thedragonchamber.itch.io/dangeons-and-dash) (Unreal Engine 5)
+*A local multiplayer dungeon crawler built to push the limits of Visual Scripting.*
+* **Tech:** Unreal Engine 5, **Blueprints (Advanced)**.
+* **Engineering Highlights:**
+    * Designed the **Local Multiplayer Architecture** for shared-screen gameplay.
+    * Implemented complex **Checkpoint Systems** and game state serialization.
+    * Adjusted low-level **Gameplay Mechanics** (damage formulas, hitboxes, and physics).
+
+#### 🤖 Demo AI (Unity & C#)
+*A technical showcase of autonomous agents and state-based logic.*
+* **Tech:** Unity (**URP**, **Input System**), C#, Steering Behaviors.
+* **Engineering Highlights:**
+    * Programmed a custom **Player Controller** utilizing the **New Input System** for precise handling.
+    * Engineered **Enemy AI** using Finite State Machines (FSM) and pathfinding.
+    * Implemented dynamic enemy detection ranges and combat loops.
+* 📂 **[View Code](./Demo_AI)**
+
+#### 🥽 [FisioVR](https://github.com/JSebastianCE/FisioVR) (Medical System)
+*Virtual Reality rehabilitation software with database integration.*
+* **Tech:** Unity, C#, VR, **MySQL**.
+* **Engineering Highlights:**
+    * **Role:** Backend & Architecture Lead.
+    * Designed the **Data Architecture** to store patient progress and medical requirements.
+    * Managed the secure communication between the VR client and the **SQL Database**.
 
 ---
 
-## 🎯 Future Goals
+### 🎯 Future Goals
 
-* 🔮 Learn **AI/ML integration** for web & games
-* 🕶️ Explore **VR/AR** immersive design
-* 🌐 Contribute to **open‑source projects**
-* 🚀 Build a personal **indie game studio portfolio**
-
----
-
-## 📫 Contact
-
-* **Email:** [carlosgaeljimeneznieto@gmail.com](mailto:carlosgaeljimeneznieto@gmail.com)
-* **Instagram (Brand):** [@tsg\_im](https://www.instagram.com/tsg_im)
-* **LinkedIn:** [linkedin.com/in/gaeljimenezn](https://www.linkedin.com/in/gaeljimenezn)
+* 🔮 Learn **AI/ML integration** for web & games.
+* 🕶️ Explore **VR/AR** immersive design.
+* 🌐 Contribute to **open‑source projects**.
+* 🚀 Build a personal **indie game studio portfolio**.
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaeljimenezn&show_icons=true&theme=dark&hide=contribs,issues" alt="Gael's GitHub Stats" />
+  <br>
+  <i>"Architecture first, code second."</i>
+</div>
