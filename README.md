@@ -16,13 +16,15 @@
 
 ## 👨‍💻 About me
 
-I’m a passionate **Game Developer** focused on designing and implementing complex **gameplay mechanics** and **game engine architecture**. I love diving deep into the logic that makes a game feel great to play.
+I’m a passionate **Game Developer** in interactive media. Although I have experience blending web technologies with 3D, my true focus and passion lie in **Game Engine Development**, **Gameplay Programming**, and creating mathematical libraries that power interactive systems.
 
-My expertise lies in **C++ and C# programming**, building systems from scratch, and optimizing performance. I enjoy solving technical challenges in:
+I prefer diving deep into the logic that makes a game feel great to play (`C++` & `C#`) rather than just web layout.
 
-* ⚔️ **Gameplay Programming:** Combat systems, player controllers, and AI.
-* ⚙️ **Engine Development:** Graphics pipelines, memory management, and physics.
-* 🧠 **Mathematical Libraries:** Creating tools that power interactive systems.
+I bring:
+* 💡 Solid foundations in **programming & backend logic**
+* 🤝 Experience collaborating with multi‑disciplinary teams using Git/GitHub
+* 🔍 A detail‑oriented mindset with strong problem‑solving skills
+* 🚀 A growth mindset: always learning, always improving
 
 ---
 
@@ -61,7 +63,6 @@ My expertise lies in **C++ and C# programming**, building systems from scratch, 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="36" alt="npm"/>
 <img src="https://img.shields.io/badge/WampServer-FF4088?logo=apache&logoColor=white" height="22" alt="WampServer"/>
 <img src="https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white" height="22" alt="DBeaver"/>
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white" height="22" alt="Cloudinary"/>
 
 </div>
 
@@ -106,11 +107,11 @@ My expertise lies in **C++ and C# programming**, building systems from scratch, 
 
 ---
 
-## 🎧 Spotify — Your Music
+## 🎧 Spotify — My Vibe
 
 <div align="center">
-  <a href="https://novatorem.vercel.app/">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Playing" />
+  <a href="https://open.spotify.com/">
+    <img src="https://img.shields.io/badge/Spotify-Listen%20to%20my%20coding%20beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
 </div>
 
