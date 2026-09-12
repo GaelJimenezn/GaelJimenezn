@@ -6,7 +6,7 @@
 
 **Game Development · Web Development · Interactive Systems**
 
-C++ · C# · JavaScript · TypeScript · Unity · Unreal Engine · Node.js · Laravel · MySQL
+C++ · C# · JavaScript · TypeScript · Unity · Unreal Engine · Node.js · Laravel · MySQL · Firebase/Firestore
 
 📍 Querétaro, Mexico · 🎓 Final-semester student in Web & Video Game Development
 
@@ -24,7 +24,7 @@ I'm a developer focused on **game development and web development**, with a stro
 
 My main focus is **gameplay programming**: mechanics, player systems, vehicles, AI and gameplay logic using **C#, C++, Unity and Unreal Engine**.
 
-Alongside game development, I build complete web applications and have experience across the **frontend, backend, APIs and databases**.
+Alongside game development, I build complete web applications and have experience across the **frontend, backend, APIs and databases**, including both relational databases and **NoSQL solutions such as Firebase/Firestore**.
 
 I enjoy working where programming, system design and user experience come together.
 
@@ -81,23 +81,28 @@ I also develop complete web applications, from interfaces and user flows to back
 - Frontend development
 - Backend development
 - REST APIs
-- Database design
+- Relational databases (`MySQL`)
+- NoSQL databases and cloud services (`Firebase` / `Firestore`)
 - Authentication
 - Application architecture
 - Deployment
 - Git / GitHub
 
-**Technologies:** `JavaScript` `TypeScript` `HTML` `CSS` `Node.js` `PHP` `Laravel` `Vite` `MySQL` `Firebase`
+**Technologies:** `JavaScript` `TypeScript` `HTML` `CSS` `Node.js` `PHP` `Laravel` `Vite` `MySQL` `Firebase` `Firestore`
 
 ### Featured work
 
 #### 🌐 CBTiS 255
 
-Full web application involving **analysis, architecture, UX, development and deployment**.
+Production web application involving **analysis, architecture, UX, development and deployment**.
+
+→ [Visit production site](https://cbtis255gto.edu.mx)
 
 #### 🏆 Guerreros eSports
 
-Web platform combining **frontend development, backend services and Firebase integration**.
+Production web platform combining **frontend development, backend services and Firebase/Firestore integration** for application data and user-related functionality.
+
+→ [Visit production site](https://guerreros-esports.vercel.app)
 
 #### 🔌 HealthQuest
 
@@ -170,6 +175,7 @@ This approach helps me understand not only how to write the code, but also how d
 - 🤖 Game AI and system architecture
 - ⚙️ Technical game design
 - 💻 Full Stack architecture
+- 🗄️ Relational and NoSQL data solutions
 - 🧪 Testing and debugging
 - 📚 Technical documentation
 - 🚀 Deployment and production practices
@@ -203,7 +209,7 @@ Technical Degree in Programming · 2020–2023
 ## 📫 Contact
 
 - **Email:** [carlosgaeljimeneznieto@gmail.com](mailto:carlosgaeljimeneznieto@gmail.com)
-- **LinkedIn:** [linkedin.com/in/gaeljimenezn](https://www.linkedin.com/in/gaeljimenezn)
+- **LinkedIn:** [linkedin.com/in/gaeljimenezn](https://linkedin.com/in/gaeljimenezn)
 - **Instagram / Brand:** [@tsg_im](https://www.instagram.com/tsg_im)
 - **itch.io:** [thedragonchamber.itch.io](https://thedragonchamber.itch.io/)
 
