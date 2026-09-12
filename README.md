@@ -2,16 +2,17 @@
 
 # 👋 Hey, I'm Gael Jiménez
 
-### Software Developer · Game Development · Interactive Experiences
+### 🎮 Gameplay Programmer · 💻 Full Stack Developer
 
-**C++ · C# · JavaScript · TypeScript · Unreal Engine · Unity · Web Development**
+**Game Development · Web Development · Interactive Systems**
+
+C++ · C# · JavaScript · TypeScript · Unity · Unreal Engine · Node.js · Laravel · MySQL
 
 📍 Querétaro, Mexico · 🎓 Final-semester student in Web & Video Game Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaeljimenezn)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/tsg_im)
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://thedragonchamber.itch.io/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?logo=vercel&logoColor=white)](#)
 
 </div>
 
@@ -19,97 +20,118 @@
 
 ## 🧑‍💻 About me
 
-I'm a developer focused on **software engineering, game development and interactive experiences**.
+I'm a developer focused on **game development and web development**, with a strong interest in building systems that turn ideas into functional, interactive experiences.
 
-My strongest interest is in the systems behind an experience: gameplay logic, engine architecture, rendering, APIs, data flow and the integration between different technologies.
+My main focus is **gameplay programming**: mechanics, player systems, vehicles, AI and gameplay logic using **C#, C++, Unity and Unreal Engine**.
 
-I also build web applications and have worked across the stack, from frontend interfaces to REST APIs and relational databases.
+Alongside game development, I build complete web applications and have experience across the **frontend, backend, APIs and databases**.
 
-### What I bring
-
-- 🧠 Strong interest in programming, systems and problem solving
-- 🎮 Experience with **Unity, Unreal Engine and custom C++ engines**
-- 🌐 Full-stack foundations with **JavaScript/TypeScript, Node.js and MySQL**
-- 🧩 Experience integrating APIs, databases and interactive clients
-- 🔧 Comfortable working with Git/GitHub and modular project structures
-- 📚 Continuous learning across graphics, web, games and interactive technologies
+I enjoy working where programming, system design and user experience come together.
 
 ---
 
-## 🚀 Featured work
+## 🎮 Game Development
 
-### ⚙️ Wildvine Engine
+I enjoy programming the systems that make a game actually work.
 
-**C++ · Direct3D 11 · HLSL · ImGui**
+### Gameplay interests
 
-A custom 3D engine focused on understanding and implementing core real-time rendering and engine systems.
+- Gameplay mechanics
+- Player controllers
+- Vehicle systems
+- Power-ups
+- Checkpoints
+- Combat systems
+- Enemy AI
+- Finite State Machines
+- Detection and pathfinding
+- Gameplay and system architecture
 
-**Highlights:** ECS, Scene Graph, Forward/Deferred Rendering, PBR, model loading, Octree Culling, particles, spatial audio, serialization and Play Mode tooling.
+**Technologies:** `C#` `C++` `Unity` `Unreal Engine`
 
-→ [View repository](https://github.com/GaelJimenezn/WildvineEngine)
+### Featured work
+
+#### 🏎️ Dungeons & Dash
+
+Gameplay programming focused on **vehicle mechanics, power-ups and racing systems**.
+
+→ [View project](https://thedragonchamber.itch.io/dangeons-and-dash)
+
+#### 🤖 Demo AI
+
+Unity project focused on **AI systems, enemy detection, FSM logic and pathfinding**.
+
+→ [View repository](https://github.com/GaelJimenezn/Demo_AI)
+
+#### ⚙️ Engine Projects
+
+I've also worked on C++ engine and graphics projects involving ECS architecture, rendering, scene systems and development tooling. These projects strengthened my understanding of the technical foundations behind interactive applications.
+
+→ [Wildvine Engine](https://github.com/GaelJimenezn/WildvineEngine)
+→ [VektorCoreEngine](https://github.com/GaelJimenezn/VektorCoreEngine)
 
 ---
 
-### 🧱 VektorCoreEngine
+## 💻 Web Development
 
-**C++ · SFML · ImGui**
+I also develop complete web applications, from interfaces and user flows to backend services, APIs and databases.
 
-A 2D engine project focused on engine architecture, entity/component organization and interactive systems.
+### What I work with
 
-**Highlights:** ECS architecture, AI/racing systems and development tooling with ImGui-SFML.
+- Frontend development
+- Backend development
+- REST APIs
+- Database design
+- Authentication
+- Application architecture
+- Deployment
+- Git / GitHub
 
-→ [View repository](https://github.com/GaelJimenezn/VektorCoreEngine)
+**Technologies:** `JavaScript` `TypeScript` `HTML` `CSS` `Node.js` `PHP` `Laravel` `Vite` `MySQL` `Firebase`
 
----
+### Featured work
 
-### 🚗 CarShowCase
+#### 🌐 CBTiS 255
 
-**Unreal Engine · C++ · Blueprints · 3D**
+Full web application involving **analysis, architecture, UX, development and deployment**.
 
-Interactive automotive visualization built around a showroom experience.
+#### 🏆 Guerreros eSports
 
-**Highlights:** vehicle selection, camera views, orbit controls, dynamic materials, color customization, showroom UI and Blueprint-configurable interactions.
+Web platform combining **frontend development, backend services and Firebase integration**.
 
-→ [View repository](https://github.com/GaelJimenezn/CarShowCase)
+#### 🔌 HealthQuest
 
----
-
-### 🥽 FisioVR / HealthQuest
-
-**Unity · C# · Node.js · Express · MySQL · REST API**
-
-A rehabilitation-oriented VR system integrating an interactive Unity client with a web/API and database layer.
-
-**My focus:** backend architecture, API routes, session data and communication between the application and MySQL.
+REST API developed with **Node.js, Express and MySQL**, connecting application clients with persistent data and session-related functionality.
 
 → [Backend repository](https://github.com/GaelJimenezn/HealthQuest-Backend)
-→ [FisioVR project](https://github.com/JSebastianCE/FisioVR)
 
----
+#### 🎟️ SorteosWeb
 
-### 📐 Three.js Practices
+Web application prototype focused on raffle management, interactive ticket selection and user flows using Vanilla JavaScript.
 
-**JavaScript · Three.js · Vite · WebGL**
+→ [View repository](https://github.com/GaelJimenezn/SorteosWeb)
 
-A collection of mathematical visualization exercises rendered as interactive 3D scenes.
+#### 📐 Three.js Practices
 
-**Highlights:** numerical derivatives, integral approximations, surface generation, vertex manipulation, vector fields, trajectories and line integrals.
+Interactive 3D mathematical visualizations built with **Three.js, Vite and WebGL**.
 
 → [View repository](https://github.com/GaelJimenezn/ThreeJs-practices)
 
 ---
 
-### 🌐 Production Web Projects
+## 🔗 Where both areas meet
 
-Some of my web work has been developed for real organizational or institutional use. These projects are kept private when they contain production code, internal data or implementation details.
+The common thread between my game and web projects is **building systems**.
 
-**Selected technologies:** Laravel, PHP, TypeScript, Vite, Tailwind CSS, Firebase, MySQL and JavaScript.
+Whether I'm programming a gameplay mechanic or a complete web application, I enjoy working through the same process:
 
-> 🔒 Production repositories may be private. The portfolio presents their UI, functionality and technical contributions without exposing protected implementation details.
+**Idea → System Design → Architecture → Implementation → Testing → Iteration**
+
+This approach helps me understand not only how to write the code, but also how different systems interact and how users experience the final product.
 
 ---
 
-## 🛠️ Technology
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -142,17 +164,23 @@ Some of my web work has been developed for real organizational or institutional 
 
 ---
 
-## 🧩 Areas of interest
+## 🚀 Currently Improving
 
-| Area | Technologies / Topics |
-|---|---|
-| 🎮 Game Development | Unity, Unreal Engine, C#, C++, gameplay systems |
-| 🖥️ Engine Development | C++, Direct3D 11, rendering, ECS, scene systems |
-| 🌐 Web Development | JavaScript, TypeScript, Vite, Laravel, Node.js |
-| 🔌 Backend | REST APIs, Express, PHP/Laravel, MySQL |
-| 🎨 Interactive 3D | Three.js, WebGL, Blender, real-time visualization |
-| 🗄️ Data | MySQL, Firebase / Firestore |
-| 🧰 Tooling | Git, GitHub, Visual Studio, VS Code, npm |
+- 🎮 Gameplay systems and mechanics
+- 🤖 Game AI and system architecture
+- ⚙️ Technical game design
+- 💻 Full Stack architecture
+- 🧪 Testing and debugging
+- 📚 Technical documentation
+- 🚀 Deployment and production practices
+
+---
+
+## 🎯 Career Direction
+
+I'm looking for opportunities where I can contribute as a **Gameplay Programmer or Software Developer**, combining my experience in game development and web technologies.
+
+I'm especially interested in projects where I can **solve technical problems, design systems and turn ideas into working software**.
 
 ---
 
@@ -169,14 +197,6 @@ Technical Degree in Programming · 2020–2023
 - FreeCodeCamp — Responsive Web Design
 - Fundación Carlos Slim — Data Curation
 - Additional training in database administration, web development, Big Data and web/mobile development
-
----
-
-## 🎯 What I'm working toward
-
-I'm currently finishing my degree and building a portfolio that combines **software engineering, game development and web technologies**.
-
-My goal is to keep moving toward roles where I can solve technical problems, build interactive systems and work on products where programming has a direct impact on the final experience.
 
 ---
 
